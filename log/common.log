@@ -1,0 +1,18 @@
+[2020-10-21 12:19:58][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021121958 >>> running  ]:start  
+[2020-10-21 12:19:58][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:48ms  
+[2020-10-21 12:20:08][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021121958 >>> 20201021122008 ]:spent: 10s  
+[2020-10-21 12:22:00][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021122200 >>> running  ]:start  
+[2020-10-21 12:22:00][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:0ms  
+[2020-10-21 12:22:31][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021122200 >>> 20201021122231 ]:spent: 30s  
+[2020-10-21 12:23:45][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021122345 >>> running  ]:start  
+[2020-10-21 12:23:45][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:0ms  
+[2020-10-21 12:24:03][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021122345 >>> 20201021122403 ]:spent: 18s  
+[2020-10-21 12:27:12][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021122712 >>> running  ]:start  
+[2020-10-21 12:27:12][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:0ms  
+[2020-10-21 12:27:23][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021122712 >>> 20201021122723 ]:spent: 10s  
+[2020-10-21 12:29:52][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021122952 >>> running  ]:start  
+[2020-10-21 12:29:52][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:0ms  
+[2020-10-21 12:30:03][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021122952 >>> 20201021123003 ]:spent: 11s  
+[2020-10-21 12:30:21][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:42)]: [idv.heimlich.Task.HelloLoop].[20201021123021 >>> running  ]:start  
+[2020-10-21 12:30:21][DEBUG][ idv.heimlich.Task.domain.task.common.TaskFileContext.isContinue(TaskFileContext.java:50)]: isContinue  idv.heimlich.Task.HelloLoop:0ms  
+[2020-10-21 12:30:32][INFO][ idv.heimlich.Task.domain.task.common.TaskLaunch.startNow(TaskLaunch.java:53)]: [idv.heimlich.Task.HelloLoop].[20201021123021 >>> 20201021123032 ]:spent: 10s  
